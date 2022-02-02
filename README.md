@@ -1,5 +1,4 @@
-### Hi there 👋 
-:wolf:<a href="https://twitter.com/BkNkbot">@BkNkbot</a>
+### :wolf:<a href="https://twitter.com/BkNkbot">@BkNkbot</a>
 
 
 <!--
