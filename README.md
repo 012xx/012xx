@@ -8,8 +8,8 @@
 <br/>
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=012xx&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/012xx/)
-
+<!-- [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=012xx&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/012xx/)
+ -->
 <!-- ソースコード統計 -->
 <!-- [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=012xx&layout=compact&theme=tokyonight)](https://github.com/012xx/) -->
 
