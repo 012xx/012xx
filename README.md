@@ -6,8 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&labelColor=1868fc&logoColor=ffffff&color=f5f5f5&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&labelColor=fcac18&logoColor=ffffff&color=f5f5f5&logo=javascript)
 
-<br/>
-
 <!-- リポジトリステータス -->
 <!-- [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=012xx&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/012xx/)
  -->
