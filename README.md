@@ -2,8 +2,9 @@
 
 ## 🔥 Studying now…
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=000000&logoColor=color=ffffff&color=f5f5f5&logo=next.js)
-![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&labelColor=3a59ae&logoColor=ffffff&color=f5f5f5&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&labelColor=ae493a&logoColor=ffffff&color=f5f5f5&logo=typescript)
+![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&labelColor=3a59ae&logoColor=ffffff&color=f5f5f5&logo=react)<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&labelColor=1868fc&logoColor=ffffff&color=f5f5f5&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&labelColor=fcac18&logoColor=ffffff&color=f5f5f5&logo=javascript)
 
 <br/>
 
