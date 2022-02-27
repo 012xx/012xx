@@ -1,7 +1,8 @@
-### :wolf:<a href="https://twitter.com/BkNkbot">@BkNkbot</a>
+- 🐺 <a href="https://twitter.com/BkNkbot">@BkNkbot</a>
 
 <img src="https://img.shields.io/badge/-Windows-1c359d.svg?logo=windows&style=popout-square">
-### ::Studying now…
+
+- 🔥 Studying now…
 <img src="https://img.shields.io/badge/-React-070d27.svg?logo=react&style=popout-square">
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=popout-square">
 
