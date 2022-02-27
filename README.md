@@ -1,4 +1,4 @@
-## 🐺 <a href="https://twitter.com/BkNkbot">@BkNkbot</a>
+<!-- ## 🐺 <a href="https://twitter.com/BkNkbot">@BkNkbot</a> -->
 
 ## 🔥 Studying now…
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=000000&logoColor=color=ffffff&color=f5f5f5&logo=next.js)
